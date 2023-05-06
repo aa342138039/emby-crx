@@ -31,6 +31,7 @@ _无需使用插件, 直接部署至服务端, 用户无缝使用_
     # EmbyServer 为容器名, 如果你的容器名不是这个 请改成正确的!
     docker exec EmbyServer /bin/sh -c 'cd /system/dashboard-ui && wget -O - https://tinyurl.com/2p97xcpd | sh'
 #####docker exec wizardly_sanderson /bin/sh -c 'cd /system/dashboard-ui && wget -O - https://raw.githubusercontent.com/aa342138039/emby-crx/master/script.sh | sh'
+
     # 正常版
     # 参考教程: https://cangshui.net/5167.html
 
