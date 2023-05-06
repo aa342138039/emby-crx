@@ -35,7 +35,7 @@ class Home {
 	static initLoading() {
 		const load = `
 		<div class="misty-loading">
-			<h1>MISTY MEDIA</h1>
+			<h1>泡芙TV</h1>
 			<div class="mdl-spinner"><div class="mdl-spinner__layer mdl-spinner__layer-1"><div class="mdl-spinner__circle-clipper mdl-spinner__left"><div class="mdl-spinner__circle mdl-spinner__circleLeft"></div></div><div class="mdl-spinner__circle-clipper mdl-spinner__right"><div class="mdl-spinner__circle mdl-spinner__circleRight"></div></div></div></div>
 		</div>
 		`;
